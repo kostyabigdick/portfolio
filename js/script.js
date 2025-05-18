@@ -10,4 +10,8 @@ navBtn.onclick = () => {
     }
 }
 
+window.onload = () => {
+      document.body.classList.add('shift-left');
+    };
+
 AOS.init();
