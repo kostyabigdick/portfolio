@@ -45,6 +45,7 @@
 
     .header-nav{
         margin-bottom: 50px;
+        position: relative;
     }
 
     .header-row{
